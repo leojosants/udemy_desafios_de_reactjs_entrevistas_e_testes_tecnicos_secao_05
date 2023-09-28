@@ -1,0 +1,6 @@
+Ex 19: HelloWorld com estilos
+
+● Crie um componente que exibe a mensagem Hello World;
+● Utilize CSS inline para estilizar ele;
+● Altere: cor, tamanho de fonte e cor de fundo do elemento;
+● Armazene os estilos em uma variável e depois aplique no elemento;
