@@ -1,0 +1,5 @@
+Ex 22: Styled Components
+
+● Crie um novo componente;
+● Faça estilos, com no mínimo 5 propriedades, utilizando styled components;
+● Lembre-se de instalar a lib: styled-components;

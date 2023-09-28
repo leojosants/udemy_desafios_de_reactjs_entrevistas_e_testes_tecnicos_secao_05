@@ -1,6 +1,7 @@
 import './App.css'
 import Button from './components/Button/Button';
 import HelloWorld from './components/HelloWorld';
+import StyleComponentExample from './components/StyleComponentExample';
 import ThemeLightDark from './components/ThemeToggle/ThemeToggle';
 
 function App() {
@@ -19,6 +20,11 @@ function App() {
       <div>
         <h2>3 - Tema light e dark</h2>
         <ThemeLightDark />
+      </div>
+
+      <div>
+        <h2>4 - Styled Components</h2>
+        <StyleComponentExample />
       </div>
     </>
   );
