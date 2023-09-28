@@ -1,0 +1,5 @@
+Ex 20: Estilo com CSS externo
+
+● Crie um componente que tem um botão;
+● Este botão deve ser estilizado com arquivo de CSS externo;
+● Você deve criar um novo arquivo de CSS, não utilize os já iniciados pelo React;
