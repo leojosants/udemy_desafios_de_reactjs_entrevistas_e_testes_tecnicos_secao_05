@@ -1,0 +1,29 @@
+.my_button {
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid rgb(202, 200, 200);
+    color: white;
+    background-color: rgb(121, 118, 118);
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.my_button:hover {
+    background-color: rgb(170, 169, 169);
+    color: black;
+}
+
+.my_button:active {
+    background-color: rgb(241, 144, 144);
+}
+
+.ligth_theme {
+    background-color: white;
+    color: black;
+}
+
+.dark_theme {
+    background-color: black;
+    color: white;
+}

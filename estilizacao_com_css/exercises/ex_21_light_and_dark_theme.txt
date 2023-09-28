@@ -1,0 +1,5 @@
+Ex 21: Tema light e dark
+
+● Crie um componente que tem um botão;
+● Este botão deve mudar o tema do projeto para light ou dark, quando o usuário clicar;
+● Utilize CSS modules para implementar este exercício;

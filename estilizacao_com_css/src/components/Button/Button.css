@@ -13,3 +13,7 @@
     background-color: rgb(170, 169, 169);
     color: black;
 }
+
+.my_button:active {
+    background-color: rgb(241, 144, 144);
+}
