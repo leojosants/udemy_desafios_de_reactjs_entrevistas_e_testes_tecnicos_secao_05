@@ -1,0 +1,6 @@
+Ex 23: SASS com React
+
+● Crie um novo componente;
+● Utilize SASS para criar as regras de estilo dele;
+● Aplique recursos como variáveis e nesting;
+● Se você desejar implemente outros também;
